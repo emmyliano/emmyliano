@@ -1,9 +1,9 @@
 # Hi, I'm Akemu Edesiri Emmanuel 👋
 
-### Senior Flutter Developer & Mobile Architect
+### Flutter Developer & Mobile Architect
 **Specializing in Fintech, HealthTech, and Logistics**
 
-I am a Senior Mobile Engineer with a B.Eng. in Computer Engineering from the University of Benin. I build resilient, high-performance cross-platform applications (Android & iOS) from the ground up. My work focuses on Clean Architecture, offline-first data persistence, and secure systems.
+I am a Mobile Engineer with a B.Eng. in Computer Engineering from the University of Benin. I build resilient, high-performance cross-platform applications (Android & iOS) from the ground up. My work focuses on Clean Architecture, offline-first data persistence, and secure systems.
 
 Beyond feature development, I actively maintain and patch discontinued open-source Flutter plugins to unblock production environments. I am currently expanding my expertise in integrating secure mobile wallets and handling sensitive data architectures for Web3 and **Blockchain** applications, with exposure to **Node.js** backends and **Supabase** as a Firebase alternative.
 
@@ -47,7 +47,7 @@ Beyond feature development, I actively maintain and patch discontinued open-sour
 
 ## 🚀 Featured Production Apps
 
-### 📦 Pickload Logistics Ecosystem *(2022 – Present)*
+### 📦 Pickload Logistics Ecosystem
 Built the User, Rider, and Admin apps from scratch for a live logistics platform handling real-time deliveries, secure payments, and push notifications across Android and iOS.
 
 - **Tech:** Flutter, Paystack, OneSignal, Google Maps API, Firebase, Hive, Codemagic, GitHub Actions
